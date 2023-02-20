@@ -2,7 +2,7 @@
 
 ## Installation Guide
 
-1. clone this repo to your local machine: `git clone https://github.com/theoafactor/ecommerce-laravel.git && cd ecommerce-laravel`
+1. clone this repo to your local machine: `git clone https://github.com/theoafactor/buy_and_sell.git && cd buy_and_sell`
 1. copy `.example.env` to `.env` file: `cp .example.env .env`
 1. create a new database and add the database credentials to your `.env` file
 1. run `composer install`
